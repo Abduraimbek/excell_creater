@@ -1,0 +1,95 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "2:1158189165769834426",
+      "lastPropertyId": "15:5129661837763168870",
+      "name": "ExportModel",
+      "properties": [
+        {
+          "id": "1:6616921901556242794",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:8459608525427621483",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "4:4081898774315540589",
+          "name": "price",
+          "type": 9
+        },
+        {
+          "id": "7:3044788973723212845",
+          "name": "sqlId",
+          "type": 9
+        },
+        {
+          "id": "8:5344117861139040687",
+          "name": "prName",
+          "type": 9
+        },
+        {
+          "id": "9:1848794007116139654",
+          "name": "barcode",
+          "type": 9
+        },
+        {
+          "id": "10:9124144911839678659",
+          "name": "tradeName",
+          "type": 9
+        },
+        {
+          "id": "11:2795314372542156106",
+          "name": "dosage",
+          "type": 9
+        },
+        {
+          "id": "12:5142866480521967384",
+          "name": "form",
+          "type": 9
+        },
+        {
+          "id": "13:3874734624262645383",
+          "name": "inStock",
+          "type": 9
+        },
+        {
+          "id": "14:1606402437119218527",
+          "name": "expiredDate",
+          "type": 9
+        },
+        {
+          "id": "15:5129661837763168870",
+          "name": "serie",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "2:1158189165769834426",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    7302673943746905878
+  ],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    152034730033908838,
+    1178086196361620664,
+    57010673786661741,
+    3220674291492108959,
+    3753970853878763447
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
